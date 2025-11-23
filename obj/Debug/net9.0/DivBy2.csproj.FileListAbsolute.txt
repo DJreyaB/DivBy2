@@ -1,0 +1,15 @@
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/bin/Debug/net9.0/DivBy2
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/bin/Debug/net9.0/DivBy2.deps.json
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/bin/Debug/net9.0/DivBy2.runtimeconfig.json
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/bin/Debug/net9.0/DivBy2.dll
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/bin/Debug/net9.0/DivBy2.pdb
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/DivBy2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/DivBy2.AssemblyInfoInputs.cache
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/DivBy2.AssemblyInfo.cs
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/DivBy2.csproj.CoreCompileInputs.cache
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/DivBy2.sourcelink.json
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/DivBy2.dll
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/refint/DivBy2.dll
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/DivBy2.pdb
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/DivBy2.genruntimeconfig.cache
+/Users/djreyaboyd/Projects/CSharpPractice/DivBy2/obj/Debug/net9.0/ref/DivBy2.dll
